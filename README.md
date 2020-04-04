@@ -9,7 +9,7 @@ ganharão publicidade na página inicial da aplicação.
 
 
 A aplicação é feita usando um container que foi feito em docker, portanto para executar a aplicação é necessário
-montar a imagem, para isso clone o repositório e navege via terminal até a pasta do projeto e use:
+montar a imagem, para isso clone o repositório, navegue via terminal até a pasta do projeto e use:
 
 * `sudo docker build -t ds_conexao_doadores .`
 
