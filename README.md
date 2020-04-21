@@ -4,7 +4,7 @@ O Conexão Doadores é uma aplicação web a qual conecta mercados e produtores 
 caridade com intuito de doar alimentos que não se enquadram no padrão estético exigido para comercialização,
 sendo descartados por esta razão, mesmo que estejam em perfeito estado para o consumo. Sendo assim, a 
 aplicação é uma forma de conectar quem quer doar com quem precisa das doações. Como incentivo às empresas e 
-produtores que doam, será formado um ranque dos doadores disponibilizado na página, onde maiores doadores 
+produtores que doam, será formado um ranking dos doadores disponibilizado na página, onde maiores doadores 
 ganharão publicidade na página inicial da aplicação.
 
 
